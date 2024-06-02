@@ -1,0 +1,49 @@
+[
+    {
+      "category_name": "Animal",
+      "animal_name": "Elephant",
+      "img": "https://i.ibb.co/hLNtCjs/elephant.png"
+    },
+    {
+      "category_name": "Bird",
+      "animal_name": "Phoenix",
+      "img": "https://i.ibb.co/dPykBjJ/phoenix.png"
+    },
+    {
+      "category_name": "Bird",
+      "animal_name": "Sparrow",
+      "img": "https://i.ibb.co/BrCGNVg/sparrow.png"
+    },
+    
+    {
+      "category_name": "Fish",
+      "animal_name": "Rainbow ",
+      "img": "https://i.ibb.co/5sdYhqw/fish.png"
+    },
+    {
+      "category_name": "Insect",
+      "animal_name": "Beetle",
+      "img": "https://i.ibb.co/ydnZrH2/beetle.png"
+    },
+    {
+      "category_name": "Animal",
+      "animal_name": "Fox",
+      "img": "https://i.ibb.co/bz3FZKt/fox.png"
+    },
+    {
+      "category_name": "Bird",
+      "animal_name": "Emerald Hawk",
+      "img": "https://example.com/images/emerald_hawk.jpg"
+    },
+    {
+      "category_name": "Animal",
+      "animal_name": "Horse",
+      "img": "https://i.ibb.co/qCRhQF9/horse.png"
+    },
+    {
+      "category_name": "Bird",
+      "animal_name": "Cockatoo",
+      "img": "https://i.ibb.co/4ZnMXZ2/cockatoo.png"
+    }
+  ]
+  
